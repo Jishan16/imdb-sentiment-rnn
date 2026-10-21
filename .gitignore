@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# dataset is large, download it separately (see README)
+IMDB Dataset.csv
